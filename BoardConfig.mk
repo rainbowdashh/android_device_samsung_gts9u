@@ -104,6 +104,7 @@ PLATFORM_VERSION := 16.1.0
 # TWRP Configuration
 TW_H_OFFSET := -100
 TW_Y_OFFSET := 100
+TW_ROTATION := 270
 TW_INCLUDE_NTFS_3G := true
 TW_NO_REBOOT_BOOTLOADER := true
 TW_BRIGHTNESS_PATH := /sys/class/backlight/panel0-backlight/brightness
