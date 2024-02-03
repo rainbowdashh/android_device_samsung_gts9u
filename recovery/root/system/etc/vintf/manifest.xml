@@ -5,7 +5,7 @@
         vendor/qcom/proprietary/commonsys/gps-release/qcc_manifest.xml
         vendor/samsung/frameworks/interfaces/security/ucm/crypto/1.0/manifest.xml
 -->
-<manifest version="7.0" type="framework">
+<manifest version="1.0" type="framework">
     <hal format="hidl" max-level="6">
         <name>android.frameworks.displayservice</name>
         <transport>hwbinder</transport>
