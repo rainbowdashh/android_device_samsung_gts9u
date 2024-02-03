@@ -76,7 +76,7 @@ BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
 TARGET_COPY_OUT_VENDOR := vendor
 BOARD_SUPER_PARTITION_SIZE := 12979273728
 BOARD_SUPER_PARTITION_GROUPS := samsung_dynamic_partitions
-BOARD_SAMSUNG_DYNAMIC_PARTITIONS_PARTITION_LIST := system vendor system_ext vendor_dlkm product odm system_dlkm system_dlkm system_dlkm
+BOARD_SAMSUNG_DYNAMIC_PARTITIONS_PARTITION_LIST := system vendor system_ext vendor_dlkm product odm
 BOARD_SAMSUNG_DYNAMIC_PARTITIONS_SIZE := 12979273728
 
 # Platform
