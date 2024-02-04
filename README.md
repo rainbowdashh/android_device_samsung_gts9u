@@ -1,4 +1,6 @@
-# Android device tree for samsung SM-F946B (q5q)
+# Android device tree for Samsung Galaxy Z Fold 5 (q5q)
+
+Kernel source for the prebuilt image [HERE](https://github.com/rainbowdashh/android_device_samsung_q5q)
 
 ```
 #
