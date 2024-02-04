@@ -1,10 +1,10 @@
 # mount point	    fstype		device			device2			flags
 # Symlinked partitions
-/system_image		emmc	/dev/block/bootdevice/by-name/system		flags=backup=0;flashimg;display="System Image"
-/vendor_image		emmc	/dev/block/bootdevice/by-name/vendor		flags=backup=0;flashimg;display="Vendor Image"
-/product_image		emmc	/dev/block/bootdevice/by-name/product		flags=backup=0;flashimg;display="Product Image"
+/system_image		emmc	/dev/block/bootdevice/by-name/system		flags=backup=0;flashimg;display="System Image";wipeingui
+/vendor_image		emmc	/dev/block/bootdevice/by-name/vendor		flags=backup=0;flashimg;display="Vendor Image";wipeingui
+/product_image		emmc	/dev/block/bootdevice/by-name/product		flags=backup=0;flashimg;display="Product Image";wipeingui
 /odm_image		    emmc	/dev/block/bootdevice/by-name/odm		    flags=backup=0;flashimg;display="Odm Image"
-/system_ext_image	emmc	/dev/block/bootdevice/by-name/system_ext	flags=backup=0;flashimg;display="System_EXT Image"
+/system_ext_image	emmc	/dev/block/bootdevice/by-name/system_ext	flags=backup=0;flashimg;display="System_EXT Image";wipeingui
 /vendor_dlkm_image	emmc	/dev/block/bootdevice/by-name/vendor_dlkm	flags=backup=0;flashimg;display="Vendor_DLKM Image"
 /system_dlkm_image	emmc	/dev/block/bootdevice/by-name/system_dlkm	flags=backup=0;flashimg;display="System_DLKM Image"
 
