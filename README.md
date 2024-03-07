@@ -1,6 +1,6 @@
-# Android device tree for Samsung Galaxy Z Fold 5 (q5q)
+# Android device tree for Samsung Galaxy Z Fold 5 (gts9wifi)
 
-Kernel source for the prebuilt image [HERE](https://github.com/rainbowdashh/android_device_samsung_q5q)
+Kernel source for the prebuilt image [HERE](https://github.com/rainbowdashh/android_device_samsung_gts9wifi)
 
 ```
 #

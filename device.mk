@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/samsung/q5q
+LOCAL_PATH := device/samsung/gts9wifi
 
 # Dynamic partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
