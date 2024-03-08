@@ -1,6 +1,6 @@
-# Android device tree for Samsung Galaxy Z Fold 5 (gts9wifi)
+# Android device tree for Samsung Galaxy Tab S9 (gts9wifi)
 
-Kernel source for the prebuilt image [HERE](https://github.com/rainbowdashh/android_device_samsung_gts9wifi)
+Kernel source for the prebuilt image [HERE](https://github.com/rainbowdashh/android_kernel_samsung_sm8550-q5q)
 
 ```
 #
