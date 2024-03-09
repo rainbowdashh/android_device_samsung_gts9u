@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/samsung/gts9wifi
+DEVICE_PATH := device/samsung/gts9u
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -51,8 +51,8 @@ BOARD_MKBOOTIMG_ARGS += --tags_offset $(BOARD_KERNEL_TAGS_OFFSET)
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_KERNEL_SEPARATED_DTBO := true
-TARGET_KERNEL_CONFIG := gts9wifi_defconfig
-TARGET_KERNEL_SOURCE := kernel/samsung/gts9wifi
+TARGET_KERNEL_CONFIG := gts9u_defconfig
+TARGET_KERNEL_SOURCE := kernel/samsung/gts9u
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true

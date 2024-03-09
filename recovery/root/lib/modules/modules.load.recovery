@@ -323,6 +323,7 @@ sec_vibrator.ko
 dev_ril_bridge.ko
 dropdump.ko
 vbus_notifier.ko
+sm5714_fuelgauge.ko
 common_muic.ko
 kperfmon.ko
 usb_typec_manager.ko
@@ -341,16 +342,12 @@ input_booster_lkm.ko
 sm5714-charger.ko
 pdic_notifier_module.ko
 abc_hub.ko
-sec_abc_detect_conn.ko
 mfd_sm5714.ko
 sm5440-charger.ko
 hall_ic.ko
 hall_ic_notifier.ko
-sm5714_fuelgauge.ko
 dc_vibrator.ko
 ps5169.ko
-a96t396.ko
-stm_ts_fts1b90a.ko
 muic_sm5714.ko
 snvm.ko
 sec-direct-charger.ko
@@ -359,6 +356,8 @@ sec-battery.ko
 pdic_sm5714.ko
 sec_thermistor.ko
 stm32_pogo_v3.ko
+goodix_ts_berlin.ko
+a96t396.ko
 wez01.ko
 slimbus.ko
 slim-qcom-ngd-ctrl.ko
